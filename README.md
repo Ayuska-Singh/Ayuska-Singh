@@ -4,7 +4,4 @@
 - 💬 Ask me about Java and C
 - 📫 I’m just a email away from you :ayuskasingh684@gmail.com
 - 👀 You can also find me on LinkedIn.
-<!---
-Ayuska-Singh/Ayuska-Singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+https://github.com/Ayuska-Singh/Ayuska-Singh/blob/main/gif.gif
