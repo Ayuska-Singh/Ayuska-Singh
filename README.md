@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ayuska-Singh
+# 👋 Hi, I’m @Ayuska-Singh
 - 📑I’m a passionate coder who is always ready to learn new.
 - 🌱 I’m currently learning FrontEnd and BackEnd Development.
 - 💬 Ask me about Java and C
