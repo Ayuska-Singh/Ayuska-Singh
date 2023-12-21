@@ -25,7 +25,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=48&id=17836&format=png" alt="python" width="40" height="40"/> </a> </p>
 <p align="right">
-  <img align="center" src="(https://github.com/Ayuska-Singh/Ayuska-Singh/blob/main/gif.gif)" />
+  <img align="center" src="[(https://github.com/Ayuska-Singh/Ayuska-Singh/blob/main/gif.gif)](https://camo.githubusercontent.com/4aa77ea32aa4d7be626e833b160f3d8923c133cd32c34fefbdc43c8abfcff710/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966)https://camo.githubusercontent.com/4aa77ea32aa4d7be626e833b160f3d8923c133cd32c34fefbdc43c8abfcff710/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966" />
   </p>
 
 
