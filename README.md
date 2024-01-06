@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java C Python**
 
-- 📫 How to reach me **ayuskasingh684@gmail.com**
+- 📫 How to reach me **ayuskasingh99@gmail.com**
 
 - ⚡ Fun fact **Punctuality is the key to success**
 
