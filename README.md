@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ayuska Singh</h1>
 <h3 align="center">A passionate coder from India</h3>
 
-- 🔭 I’m currently working on **Web Developement**
+- 🔭 I’m currently an **SDE Intern @AMAZON**
 
-- 🌱 I’m currently learning **Data Structures and Javascript**
+- 🌱 I’m currently working on  **AWS, JAVA, Ruby On Rails, and Web Technologies**
 
-- 🤝 I’m looking forward to explore **Android Development**
+- 🤝 I’m looking forward to explore **Cloud Computing, and AI-driven innovations**
 
-- 💬 Ask me about **Java C Python**
+- 💬 Ask me about **DSA, Cloud Computing**
 
 - 📫 How to reach me **ayuskasingh99@gmail.com**
 
